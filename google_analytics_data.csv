@@ -1,4 +1,4 @@
-﻿purchase amount,city,state,utm_campaign,utm_ad,utm_source,utm_channel,date
+﻿purchase_amount,city,state,utm_campaign,utm_ad,utm_source,utm_channel,date
 20,Chicago,Illinois,none,none,direct,direct,10/13/2023
 20,Seattle,Washington,none,none,direct,direct,10/4/2023
 20,Columbus,Ohio,none,none,direct,direct,10/1/2023
