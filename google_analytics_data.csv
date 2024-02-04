@@ -1,0 +1,461 @@
+﻿purchase amount,city,state,utm_campaign,utm_ad,utm_source,utm_channel,date
+20,Chicago,Illinois,none,none,direct,direct,10/13/2023
+20,Seattle,Washington,none,none,direct,direct,10/4/2023
+20,Columbus,Ohio,none,none,direct,direct,10/1/2023
+20,Philadelphia,Pennsylvania,none,none,direct,direct,10/6/2023
+20,New York,New York,none,none,direct,direct,10/7/2023
+20,Ashburn,Georgia,branded,one,fb,paid_social,10/21/2023
+20,Philadelphia,Pennsylvania,branded,one,fb,paid_social,10/23/2023
+20,Philadelphia,Pennsylvania,branded,one,fb,paid_social,10/11/2023
+20,Denver,Colorado,branded,one,fb,paid_social,10/11/2023
+20,Denver,Colorado,branded,one,fb,paid_social,10/27/2023
+20,Miami,Florida,branded,one,fb,paid_social,10/11/2023
+30,Miami,Florida,branded,two,fb,paid_social,10/8/2023
+30,Miami,Florida,branded,two,fb,paid_social,10/24/2023
+30,Boston,Massachusetts,none,none,direct,direct,10/5/2023
+30,San Jose,California,none,none,direct,direct,10/28/2023
+30,Phoenix,Arizona,none,none,direct,direct,10/4/2023
+30,Miami,Florida,none,none,direct,direct,10/14/2023
+30,Atlanta,Georgia,none,none,direct,direct,10/20/2023
+30,Houston,Texas,none,none,direct,direct,10/8/2023
+30,New York,New York,none,none,direct,direct,10/28/2023
+30,Boston,Massachusetts,none,none,direct,direct,10/20/2023
+30,Ashburn,Georgia,none,none,direct,direct,10/17/2023
+30,Boston,Massachusetts,none,none,direct,direct,10/1/2023
+30,Columbus,Ohio,none,none,direct,direct,10/7/2023
+30,Denver,Colorado,none,none,direct,direct,10/4/2023
+30,Ashburn,Georgia,none,none,direct,direct,10/4/2023
+30,New York,New York,none,none,direct,direct,10/4/2023
+30,Dallas,Texas,none,none,direct,direct,10/21/2023
+30,Ashburn,Georgia,none,none,direct,direct,10/6/2023
+30,Seattle,Washington,none,none,direct,direct,10/28/2023
+30,Denver,Colorado,none,none,direct,direct,10/25/2023
+30,Portland,Oregon,none,none,direct,direct,10/12/2023
+30,Philadelphia,Pennsylvania,none,none,direct,direct,10/10/2023
+30,Rochester,New York,none,none,direct,direct,10/9/2023
+30,Chicago,Illinois,none,none,direct,direct,10/23/2023
+30,Atlanta,Georgia,none,none,direct,direct,10/15/2023
+30,New York,New York,none,none,direct,direct,10/27/2023
+30,Houston,Texas,none,none,direct,direct,10/6/2023
+30,Dallas,Texas,none,none,direct,direct,10/30/2023
+30,Houston,Texas,none,none,direct,direct,10/20/2023
+30,Chicago,Illinois,none,none,direct,direct,10/23/2023
+30,Phoenix,Arizona,none,none,direct,direct,10/28/2023
+30,Chicago,Illinois,none,none,direct,direct,10/6/2023
+30,Portland,Oregon,none,none,direct,direct,10/1/2023
+30,Denver,Colorado,none,none,direct,direct,10/17/2023
+30,Philadelphia,Pennsylvania,none,none,direct,direct,10/31/2023
+30,Miami,Florida,branded,two,fb,paid_social,10/8/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/7/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,10/23/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,10/20/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,10/31/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,10/28/2023
+30,San Jose,California,branded,two,fb,paid_social,10/2/2023
+30,Dallas,Texas,branded,two,fb,paid_social,10/4/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/12/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,10/16/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,10/29/2023
+30,Dallas,Texas,branded,two,fb,paid_social,10/12/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,10/16/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,10/10/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,10/12/2023
+30,Rochester,New York,branded,two,fb,paid_social,10/31/2023
+30,Seattle,Washington,branded,two,fb,paid_social,10/26/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,10/8/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/30/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,10/1/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/4/2023
+30,Miami,Florida,branded,two,fb,paid_social,10/12/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/16/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/21/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/20/2023
+30,Miami,Florida,branded,two,fb,paid_social,10/17/2023
+30,Houston,Texas,branded,two,fb,paid_social,10/30/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,10/7/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,10/13/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,10/26/2023
+30,Rochester,New York,branded,two,fb,paid_social,10/28/2023
+30,Houston,Texas,branded,two,fb,paid_social,10/21/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,10/7/2023
+30,Miami,Florida,branded,two,fb,paid_social,10/17/2023
+30,Los Angeles,California,branded,two,fb,paid_social,10/1/2023
+30,Dallas,Texas,branded,two,fb,paid_social,10/4/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,10/18/2023
+30,Portland,Oregon,branded,two,fb,paid_social,10/13/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,10/27/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,10/14/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,10/16/2023
+30,Dallas,Texas,branded,two,fb,paid_social,10/30/2023
+50,Houston,Texas,promotion,three,fb,paid_social,10/26/2023
+50,San Jose,California,promotion,three,fb,paid_social,10/15/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,10/10/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,10/15/2023
+50,Denver,Colorado,promotion,three,fb,paid_social,10/14/2023
+50,Los Angeles,California,promotion,three,fb,paid_social,10/27/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,10/22/2023
+50,New York,New York,promotion,three,fb,paid_social,10/19/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,10/21/2023
+50,Rochester,New York,promotion,three,fb,paid_social,10/30/2023
+50,Boston,Massachusetts,promotion,three,fb,paid_social,10/1/2023
+50,Dallas,Texas,promotion,three,fb,paid_social,10/1/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,10/31/2023
+50,Columbus,Ohio,promotion,three,fb,paid_social,10/7/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,10/5/2023
+50,Houston,Texas,promotion,three,fb,paid_social,10/25/2023
+50,Dallas,Texas,promotion,three,fb,paid_social,10/9/2023
+50,San Jose,California,promotion,three,fb,paid_social,10/25/2023
+50,Houston,Texas,promotion,three,fb,paid_social,10/8/2023
+50,New York,New York,promotion,three,fb,paid_social,10/2/2023
+50,Ashburn,Georgia,none,none,direct,direct,10/15/2023
+50,Dallas,Texas,none,none,direct,direct,10/9/2023
+50,Atlanta,Georgia,none,none,direct,direct,10/3/2023
+50,Dallas,Texas,none,none,direct,direct,10/31/2023
+50,Atlanta,Georgia,none,none,direct,direct,10/20/2023
+50,Los Angeles,California,none,none,direct,direct,10/23/2023
+50,Boston,Massachusetts,none,none,direct,direct,10/19/2023
+50,Houston,Texas,none,none,direct,direct,10/14/2023
+50,Miami,Florida,none,none,direct,direct,10/10/2023
+50,Columbus,Ohio,none,none,direct,direct,10/23/2023
+50,Ashburn,Georgia,none,none,direct,direct,10/30/2023
+50,Philadelphia,Pennsylvania,none,none,direct,direct,10/15/2023
+50,Boston,Massachusetts,none,none,direct,direct,10/29/2023
+50,New York,New York,none,none,direct,direct,10/3/2023
+50,Los Angeles,California,none,none,direct,direct,10/16/2023
+50,Portland,Oregon,none,none,direct,direct,10/15/2023
+50,Columbus,Ohio,none,none,direct,direct,10/30/2023
+50,Columbus,Ohio,none,none,direct,direct,10/20/2023
+50,Ashburn,Georgia,none,none,direct,direct,10/9/2023
+50,Dallas,Texas,none,none,direct,direct,10/30/2023
+50,New York,New York,none,none,direct,direct,10/16/2023
+50,Boston,Massachusetts,none,none,direct,direct,10/5/2023
+50,Seattle,Washington,none,none,direct,direct,10/19/2023
+50,Philadelphia,Pennsylvania,none,none,direct,direct,10/14/2023
+50,Houston,Texas,none,none,direct,direct,10/21/2023
+50,Los Angeles,California,none,none,direct,direct,10/10/2023
+50,Columbus,Ohio,none,none,direct,direct,10/18/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,10/13/2023
+50,New York,New York,promotion,three,fb,paid_social,10/3/2023
+50,Miami,Florida,promotion,three,fb,paid_social,10/24/2023
+50,San Jose,California,promotion,three,fb,paid_social,10/22/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,10/18/2023
+50,San Jose,California,promotion,three,fb,paid_social,10/21/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,10/26/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,10/30/2023
+50,Miami,Florida,promotion,three,fb,paid_social,10/30/2023
+50,Miami,Florida,promotion,three,fb,paid_social,10/13/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,10/5/2023
+50,Boston,Massachusetts,promotion,three,fb,paid_social,10/5/2023
+50,New York,New York,promotion,three,fb,paid_social,10/3/2023
+50,Houston,Texas,promotion,three,fb,paid_social,10/20/2023
+15,Columbus,Ohio,promotion,four,fb,paid_social,10/25/2023
+15,Denver,Colorado,promotion,four,fb,paid_social,10/22/2023
+15,San Jose,California,promotion,four,fb,paid_social,10/24/2023
+15,San Jose,California,promotion,four,fb,paid_social,10/23/2023
+15,Denver,Colorado,promotion,four,fb,paid_social,10/2/2023
+15,New York,New York,promotion,four,fb,paid_social,10/23/2023
+20,Boston,Massachusetts,branded,one,fb,paid_social,11/8/2023
+20,Columbus,Ohio,branded,one,fb,paid_social,11/29/2023
+20,New York,New York,branded,one,fb,paid_social,11/23/2023
+20,Portland,Oregon,branded,one,fb,paid_social,11/17/2023
+20,Denver,Colorado,branded,one,fb,paid_social,11/21/2023
+20,Rochester,New York,branded,one,fb,paid_social,11/12/2023
+20,Seattle,Washington,branded,one,fb,paid_social,11/17/2023
+20,Chicago,Illinois,branded,one,fb,paid_social,12/1/2023
+20,Ashburn,Georgia,branded,one,fb,paid_social,11/4/2023
+20,Seattle,Washington,branded,one,fb,paid_social,11/23/2023
+20,Miami,Florida,branded,one,fb,paid_social,11/20/2023
+20,Chicago,Illinois,branded,one,fb,paid_social,11/15/2023
+20,Atlanta,Georgia,branded,one,fb,paid_social,11/23/2023
+20,Phoenix,Arizona,branded,one,fb,paid_social,11/26/2023
+20,Denver,Colorado,branded,one,fb,paid_social,11/17/2023
+20,Atlanta,Georgia,none,none,direct,direct,11/26/2023
+20,Portland,Oregon,none,none,direct,direct,11/3/2023
+20,Los Angeles,California,none,none,direct,direct,11/29/2023
+20,New York,New York,none,none,direct,direct,11/18/2023
+20,Seattle,Washington,none,none,direct,direct,11/14/2023
+20,Chicago,Illinois,branded,one,fb,paid_social,11/20/2023
+20,Chicago,Illinois,branded,one,fb,paid_social,11/20/2023
+20,Seattle,Washington,branded,one,fb,paid_social,11/16/2023
+20,San Jose,California,branded,one,fb,paid_social,11/4/2023
+20,Rochester,New York,branded,one,fb,paid_social,11/18/2023
+30,San Jose,California,branded,two,fb,paid_social,11/9/2023
+30,Denver,Colorado,branded,two,fb,paid_social,11/10/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,11/21/2023
+30,San Jose,California,branded,two,fb,paid_social,11/19/2023
+30,San Jose,California,branded,two,fb,paid_social,11/2/2023
+30,Los Angeles,California,branded,two,fb,paid_social,11/20/2023
+30,Miami,Florida,branded,two,fb,paid_social,11/6/2023
+30,Houston,Texas,branded,two,fb,paid_social,11/11/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,11/11/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,11/12/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,11/20/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,11/15/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,11/28/2023
+30,San Jose,California,branded,two,fb,paid_social,11/1/2023
+30,San Jose,California,branded,two,fb,paid_social,11/3/2023
+30,Los Angeles,California,branded,two,fb,paid_social,11/29/2023
+30,Dallas,Texas,branded,two,fb,paid_social,11/30/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,11/10/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,11/10/2023
+30,Miami,Florida,branded,two,fb,paid_social,11/16/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,11/17/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,11/23/2023
+30,San Jose,California,branded,two,fb,paid_social,11/24/2023
+30,Los Angeles,California,branded,two,fb,paid_social,11/20/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,11/11/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,11/26/2023
+30,Portland,Oregon,branded,two,fb,paid_social,11/8/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,11/17/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,11/10/2023
+30,Denver,Colorado,none,none,direct,direct,12/1/2023
+30,Los Angeles,California,none,none,direct,direct,11/19/2023
+30,Seattle,Washington,none,none,direct,direct,11/18/2023
+30,Houston,Texas,none,none,direct,direct,11/21/2023
+30,Boston,Massachusetts,none,none,direct,direct,11/13/2023
+30,Columbus,Ohio,branded,two,fb,paid_social,11/18/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,11/13/2023
+30,New York,New York,branded,two,fb,paid_social,11/27/2023
+30,New York,New York,none,none,direct,direct,11/26/2023
+30,Philadelphia,Pennsylvania,none,none,direct,direct,11/17/2023
+30,New York,New York,none,none,direct,direct,11/22/2023
+30,Philadelphia,Pennsylvania,none,none,direct,direct,11/5/2023
+30,Dallas,Texas,none,none,direct,direct,11/3/2023
+30,Miami,Florida,branded,two,fb,paid_social,11/23/2023
+30,New York,New York,branded,two,fb,paid_social,11/2/2023
+30,Denver,Colorado,branded,two,fb,paid_social,11/25/2023
+30,Los Angeles,California,branded,two,fb,paid_social,11/3/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,11/29/2023
+50,New York,New York,promotion,three,fb,paid_social,11/10/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,11/19/2023
+50,New York,New York,promotion,three,fb,paid_social,11/30/2023
+50,Houston,Texas,promotion,three,fb,paid_social,11/12/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,11/4/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,11/10/2023
+50,San Jose,California,promotion,three,fb,paid_social,11/21/2023
+30,Phoenix,Arizona,promotion,none,direct,direct,11/22/2023
+30,New York,New York,promotion,none,direct,direct,11/29/2023
+30,Seattle,Washington,promotion,none,direct,direct,11/24/2023
+30,Seattle,Washington,promotion,none,direct,direct,11/30/2023
+30,Columbus,Ohio,promotion,none,direct,direct,11/30/2023
+30,Denver,Colorado,promotion,none,direct,direct,11/5/2023
+30,Portland,Oregon,promotion,none,direct,direct,11/1/2023
+30,Houston,Texas,promotion,none,direct,direct,11/28/2023
+30,Rochester,New York,promotion,none,direct,direct,11/19/2023
+30,Denver,Colorado,promotion,none,direct,direct,11/27/2023
+30,New York,New York,promotion,none,direct,direct,11/9/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,11/16/2023
+50,San Jose,California,promotion,three,fb,paid_social,11/1/2023
+50,New York,New York,promotion,three,fb,paid_social,11/3/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,11/12/2023
+50,Miami,Florida,promotion,three,fb,paid_social,11/12/2023
+50,Columbus,Ohio,promotion,three,fb,paid_social,11/22/2023
+50,Houston,Texas,promotion,three,fb,paid_social,11/3/2023
+50,Rochester,New York,promotion,three,fb,paid_social,11/13/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,11/17/2023
+50,Columbus,Ohio,promotion,three,fb,paid_social,11/10/2023
+15,Miami,Florida,promotion,four,fb,paid_social,11/3/2023
+15,Boston,Massachusetts,promotion,four,fb,paid_social,11/24/2023
+15,Miami,Florida,promotion,four,fb,paid_social,11/12/2023
+15,Atlanta,Georgia,promotion,four,fb,paid_social,11/22/2023
+15,Seattle,Washington,promotion,four,fb,paid_social,11/2/2023
+15,Chicago,Illinois,promotion,four,fb,paid_social,11/15/2023
+15,Rochester,New York,promotion,four,fb,paid_social,11/27/2023
+15,Ashburn,Georgia,promotion,four,fb,paid_social,11/15/2023
+15,Houston,Texas,promotion,four,fb,paid_social,12/1/2023
+15,New York,New York,promotion,four,fb,paid_social,11/24/2023
+15,Atlanta,Georgia,promotion,four,fb,paid_social,11/29/2023
+15,Miami,Florida,promotion,four,fb,paid_social,11/28/2023
+15,Atlanta,Georgia,promotion,four,fb,paid_social,11/19/2023
+20,Denver,Colorado,branded,none,direct,direct,12/11/2023
+20,Phoenix,Arizona,branded,none,direct,direct,12/22/2023
+20,Denver,Colorado,branded,none,direct,direct,12/17/2023
+20,San Jose,California,branded,none,direct,direct,12/13/2023
+20,Chicago,Illinois,branded,none,direct,direct,12/10/2023
+20,Boston,Massachusetts,branded,none,direct,direct,12/6/2023
+20,Miami,Florida,branded,none,direct,direct,12/13/2023
+20,Ashburn,Georgia,branded,none,direct,direct,12/9/2023
+20,Atlanta,Georgia,branded,none,direct,direct,12/22/2023
+20,Portland,Oregon,branded,one,fb,paid_social,12/6/2023
+20,Boston,Massachusetts,branded,one,fb,paid_social,12/13/2023
+20,Columbus,Ohio,branded,one,fb,paid_social,12/1/2023
+20,Ashburn,Georgia,branded,one,fb,paid_social,12/11/2023
+20,Houston,Texas,branded,one,fb,paid_social,12/29/2023
+20,Dallas,Texas,branded,one,fb,paid_social,12/21/2023
+20,Phoenix,Arizona,branded,one,fb,paid_social,12/30/2023
+20,Boston,Massachusetts,branded,one,fb,paid_social,12/13/2023
+20,Phoenix,Arizona,branded,one,fb,paid_social,12/30/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,12/7/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,12/19/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,12/30/2023
+30,Los Angeles,California,branded,two,fb,paid_social,12/3/2023
+30,Seattle,Washington,branded,two,fb,paid_social,12/9/2023
+30,Portland,Oregon,branded,two,fb,paid_social,12/27/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,12/9/2023
+30,Columbus,Ohio,branded,two,fb,paid_social,12/17/2023
+30,Denver,Colorado,branded,two,fb,paid_social,12/8/2023
+30,Columbus,Ohio,branded,two,fb,paid_social,12/17/2023
+30,Columbus,Ohio,branded,two,fb,paid_social,12/8/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/16/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,12/17/2023
+30,Rochester,New York,branded,two,fb,paid_social,12/11/2023
+30,Miami,Florida,branded,two,fb,paid_social,12/17/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/22/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,12/12/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,12/26/2023
+30,Portland,Oregon,branded,two,fb,paid_social,12/23/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,12/7/2023
+30,Seattle,Washington,branded,two,fb,paid_social,12/11/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,12/19/2023
+30,New York,New York,branded,two,fb,paid_social,12/24/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,12/10/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,12/2/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/27/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,12/14/2023
+30,New York,New York,branded,two,fb,paid_social,12/4/2023
+30,Miami,Florida,none,none,direct,direct,12/7/2023
+30,Denver,Colorado,none,none,direct,direct,12/27/2023
+30,Dallas,Texas,none,none,direct,direct,12/6/2023
+30,Seattle,Washington,none,none,direct,direct,12/24/2023
+30,Los Angeles,California,none,none,direct,direct,12/27/2023
+30,Ashburn,Georgia,none,none,direct,direct,12/15/2023
+30,Dallas,Texas,none,none,direct,direct,12/20/2023
+30,Atlanta,Georgia,none,none,direct,direct,12/15/2023
+30,Los Angeles,California,none,none,direct,direct,12/4/2023
+30,Los Angeles,California,none,none,direct,direct,12/23/2023
+30,New York,New York,none,none,direct,direct,12/22/2023
+30,San Jose,California,none,none,direct,direct,12/11/2023
+30,Los Angeles,California,none,none,direct,direct,12/29/2023
+30,Ashburn,Georgia,none,none,direct,direct,12/12/2023
+30,San Jose,California,none,none,direct,direct,12/23/2023
+30,Columbus,Ohio,none,none,direct,direct,12/9/2023
+30,Chicago,Illinois,none,none,direct,direct,12/4/2023
+30,Rochester,New York,none,none,direct,direct,12/23/2023
+30,Atlanta,Georgia,none,none,direct,direct,12/17/2023
+30,Miami,Florida,branded,two,fb,paid_social,12/15/2023
+30,Columbus,Ohio,branded,two,fb,paid_social,12/24/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/12/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/11/2023
+30,Dallas,Texas,branded,two,fb,paid_social,12/27/2023
+30,Houston,Texas,branded,two,fb,paid_social,12/28/2023
+30,Boston,Massachusetts,branded,two,fb,paid_social,12/12/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,12/16/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,12/10/2023
+30,Dallas,Texas,branded,two,fb,paid_social,12/16/2023
+30,Miami,Florida,branded,two,fb,paid_social,12/10/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,12/1/2023
+30,Atlanta,Georgia,branded,two,fb,paid_social,12/5/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/24/2023
+30,Philadelphia,Pennsylvania,branded,two,fb,paid_social,12/24/2023
+30,Portland,Oregon,branded,two,fb,paid_social,12/24/2023
+30,Los Angeles,California,branded,two,fb,paid_social,12/21/2023
+30,Dallas,Texas,branded,two,fb,paid_social,12/8/2023
+30,Phoenix,Arizona,branded,two,fb,paid_social,12/31/2023
+30,Ashburn,Georgia,branded,two,fb,paid_social,12/17/2023
+30,Chicago,Illinois,branded,two,fb,paid_social,12/5/2023
+50,Los Angeles,California,promotion,three,fb,paid_social,12/3/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,12/7/2023
+50,Dallas,Texas,promotion,three,fb,paid_social,12/30/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,12/19/2023
+50,Houston,Texas,promotion,three,fb,paid_social,12/17/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/1/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,12/8/2023
+50,New York,New York,promotion,three,fb,paid_social,12/20/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,12/14/2023
+50,Houston,Texas,promotion,three,fb,paid_social,12/20/2023
+50,Dallas,Texas,promotion,three,fb,paid_social,12/21/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/23/2023
+50,Rochester,New York,promotion,three,fb,paid_social,12/19/2023
+50,Denver,Colorado,promotion,three,fb,paid_social,12/18/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/10/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,12/2/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,12/24/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,12/22/2023
+50,Boston,Massachusetts,promotion,three,fb,paid_social,12/21/2023
+50,Los Angeles,California,promotion,three,fb,paid_social,12/27/2023
+50,Atlanta,Georgia,promotion,three,fb,paid_social,12/6/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,12/9/2023
+50,Rochester,New York,promotion,three,fb,paid_social,12/18/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/8/2023
+50,Columbus,Ohio,promotion,three,fb,paid_social,12/15/2023
+50,Dallas,Texas,promotion,three,fb,paid_social,12/19/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,12/28/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/15/2023
+50,Rochester,New York,promotion,three,fb,paid_social,12/17/2023
+50,New York,New York,promotion,three,fb,paid_social,12/9/2023
+50,Dallas,Texas,promotion,three,fb,paid_social,12/8/2023
+50,Denver,Colorado,promotion,three,fb,paid_social,12/4/2023
+50,Columbus,Ohio,promotion,three,fb,paid_social,12/11/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,12/14/2023
+50,New York,New York,promotion,three,fb,paid_social,12/16/2023
+50,Denver,Colorado,promotion,three,fb,paid_social,12/26/2023
+50,Chicago,Illinois,promotion,three,fb,paid_social,12/10/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,12/7/2023
+50,Denver,Colorado,promotion,three,fb,paid_social,12/9/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/2/2023
+50,New York,New York,promotion,three,fb,paid_social,12/1/2023
+50,Houston,Texas,promotion,three,fb,paid_social,12/13/2023
+50,Miami,Florida,promotion,three,fb,paid_social,12/8/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,12/9/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/2/2023
+50,Rochester,New York,promotion,three,fb,paid_social,12/25/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,12/3/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,12/9/2023
+50,New York,New York,promotion,three,fb,paid_social,12/4/2023
+50,Columbus,Ohio,promotion,three,fb,paid_social,12/12/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,12/25/2023
+50,Ashburn,Georgia,promotion,three,fb,paid_social,12/7/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,12/27/2023
+50,Rochester,New York,promotion,three,fb,paid_social,12/16/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/30/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,12/9/2023
+50,Los Angeles,California,promotion,three,fb,paid_social,12/20/2023
+50,Portland,Oregon,promotion,three,fb,paid_social,12/1/2023
+50,Houston,Texas,promotion,three,fb,paid_social,12/31/2023
+50,Rochester,New York,promotion,three,fb,paid_social,12/20/2023
+50,San Jose,California,promotion,three,fb,paid_social,12/11/2023
+50,Philadelphia,Pennsylvania,none,none,direct,direct,12/24/2023
+50,Denver,Colorado,none,none,direct,direct,12/22/2023
+50,Philadelphia,Pennsylvania,none,none,direct,direct,12/31/2023
+50,Portland,Oregon,none,none,direct,direct,12/17/2023
+50,Miami,Florida,none,none,direct,direct,12/9/2023
+50,Philadelphia,Pennsylvania,none,none,direct,direct,12/11/2023
+50,Portland,Oregon,none,none,direct,direct,12/18/2023
+50,New York,New York,none,none,direct,direct,12/8/2023
+50,Boston,Massachusetts,none,none,direct,direct,12/9/2023
+50,Atlanta,Georgia,none,none,direct,direct,12/11/2023
+50,Ashburn,Georgia,none,none,direct,direct,12/4/2023
+50,Boston,Massachusetts,none,none,direct,direct,12/8/2023
+50,Ashburn,Georgia,none,none,direct,direct,12/27/2023
+50,Philadelphia,Pennsylvania,none,none,direct,direct,12/27/2023
+50,Ashburn,Georgia,none,none,direct,direct,12/15/2023
+50,Portland,Oregon,none,none,direct,direct,12/23/2023
+50,Atlanta,Georgia,none,none,direct,direct,12/25/2023
+50,Houston,Texas,none,none,direct,direct,12/27/2023
+50,Miami,Florida,promotion,three,fb,paid_social,12/1/2023
+50,Philadelphia,Pennsylvania,promotion,three,fb,paid_social,12/6/2023
+50,Los Angeles,California,promotion,three,fb,paid_social,12/24/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,12/10/2023
+50,Phoenix,Arizona,promotion,three,fb,paid_social,12/7/2023
+50,Boston,Massachusetts,promotion,three,fb,paid_social,12/24/2023
+50,New York,New York,promotion,three,fb,paid_social,12/20/2023
+50,Seattle,Washington,promotion,three,fb,paid_social,12/18/2023
+15,Rochester,New York,promotion,four,fb,paid_social,12/27/2023
+15,Phoenix,Arizona,promotion,four,fb,paid_social,12/15/2023
+15,Boston,Massachusetts,promotion,four,fb,paid_social,12/13/2023
+15,Los Angeles,California,promotion,four,fb,paid_social,12/14/2023
+15,San Jose,California,promotion,four,fb,paid_social,12/8/2023
+15,Denver,Colorado,promotion,four,fb,paid_social,12/11/2023
+15,Columbus,Ohio,none,none,direct,direct,12/15/2023
+15,San Jose,California,none,none,direct,direct,12/4/2023
+15,Ashburn,Georgia,none,none,direct,direct,12/20/2023
+15,Boston,Massachusetts,none,none,direct,direct,12/26/2023
+15,Seattle,Washington,none,none,direct,direct,12/26/2023
+15,Seattle,Washington,none,none,direct,direct,12/28/2023
+15,Portland,Oregon,none,none,direct,direct,12/13/2023
+15,Atlanta,Georgia,none,none,direct,direct,12/7/2023
+15,Phoenix,Arizona,none,none,direct,direct,12/5/2023
+15,Atlanta,Georgia,none,none,direct,direct,12/31/2023
+15,Columbus,Ohio,none,none,direct,direct,12/7/2023
+15,Philadelphia,Pennsylvania,none,none,direct,direct,12/14/2023
+15,Seattle,Washington,promotion,four,fb,paid_social,12/8/2023
