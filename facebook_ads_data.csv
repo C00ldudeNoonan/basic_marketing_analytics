@@ -1,5 +1,5 @@
 ﻿campaign,ad_name,period_start_date,period_end_date,impressions,frequency,link_clicks,ctr,amount_spent,cpc,website_purchases,conversion_rate,cost_per_conversion
-Branded,One,10/1/2023,10/31/2023,"44,584",2.5,774,1.74%,500,0.645994832,11,1.41%,45.45
+Branded,One,10/1/2023,10/31/2023,"44584",2.5,774,1.74%,500,0.645994832,11,1.41%,45.45
 Branded,Two,10/1/2023,10/31/2023,"114,072",3.4,2399,2.10%,500,0.208420175,76,3.16%,6.58
 Promotion,Three,10/1/2023,10/31/2023,"51,284",2.5,1251,2.44%,500,0.399680256,60,4.76%,8.33
 Promotion,Four,10/1/2023,10/31/2023,"25,261",1.1,386,1.53%,500,1.295336788,6,1.51%,83.33
